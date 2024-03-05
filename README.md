@@ -16,6 +16,8 @@ As a teen, I taught myself how to make little websites and really loved the crea
 I love the combination of logical, technical thinking with a bit of creativity that you get to use when you solve problems and write code.
 I really hope to bring my unique perspective coming from a career in medicine into the tech world.
 
+### Connect
+[LinkedIn](https://www.linkedin.com/in/claudia-l-26669b279/)
 
 
 <!---
