@@ -3,7 +3,7 @@
 <img style="height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> <img style="height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /> <img style="height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /> <img style="height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img style="height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" /> <img style="height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> <img style="height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
 
 ## Quick Facts
-- 👩‍⚕️ An ex-doctor turned aspiring software developer!  
+- 👩‍⚕️ A doctor turned aspiring software developer!  
 - 👩‍💻 I’ve recently completed the Full Stack Track bootcamp at iO Academy in Bath, UK - covering PHP, HTML, CSS, Javascript, React and more!
 - ⭐ I'm new to coding and the tech world, but look forward to working on some interesting code and expanding my skills further.
 
